@@ -13,12 +13,12 @@
                 "400": {
                     "v5.2.0_400": {
                         "version": "v5.2.0_400",
-                        "primer_urls": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.2.0_400/SARS-CoV-2_v5.2.0_400.primer.bed",
-                        "reference_urls": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.2.0_400/MN908947.3.fasta",
+                        "primer_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.2.0_400/SARS-CoV-2_v5.2.0_400.primer.bed",
+                        "reference_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.2.0_400/MN908947.3.fasta",
                         "pooling_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.2.0_400/delta_rebalance",
-                        "primer_sha256_checksums": "c182315fd1372dfd15bad158351a5422bc5ae8f44bb8a0340ec953f47657d7c6",
-                        "reference_sha256_checksums": "eec2c5085009fd02c8c6b4db05983d36ef1f04a84d1f1cbdb8de91d16e87423a",
-                        "pooling_sha256_checksums": "9f8bffb8fe9c0b4b4347b782010f3b455469d2a102fb7c26ed459f13c82e4a7d"
+                        "primer_sha256_checksum": "c182315fd1372dfd15bad158351a5422bc5ae8f44bb8a0340ec953f47657d7c6",
+                        "reference_sha256_checksum": "eec2c5085009fd02c8c6b4db05983d36ef1f04a84d1f1cbdb8de91d16e87423a",
+                        "pooling_sha256_checksum": "9f8bffb8fe9c0b4b4347b782010f3b455469d2a102fb7c26ed459f13c82e4a7d"
                     }
                 }
             }
