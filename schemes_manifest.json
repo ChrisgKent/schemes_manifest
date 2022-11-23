@@ -2,6 +2,7 @@
     "latest_doi": "10.5281/zenodo.4004423",
     "metadata": "Primer schemes for real-time genome epidemiology",
     "repository": "https://github.com/artic-network/primer-schemes",
+    "license": "CC-BY-4",
     "schemes": {
         "sars-cov-2": {
             "aliases": [
