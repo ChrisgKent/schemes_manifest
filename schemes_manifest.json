@@ -3,7 +3,6 @@
     "license": "CC-BY-4",
     "metadata": "Primer schemes for real-time genome epidemiology",
     "repository": "https://github.com/artic-network/primer-schemes",
-    "license": "CC-BY-4",
     "schemes": {
         "sars-cov-2": {
             "aliases": [
