@@ -16,11 +16,11 @@
                     "v5.2.0_1200": {
                         "credit": "artic",
                         "curated": "False",
-                        "pooling_sha256_checksums": "3fd2f3eb430a35ab8252675044f9660b81d57daae45cc67204432f4e1a268a4b",
+                        "pooling_sha256_checksum": "3fd2f3eb430a35ab8252675044f9660b81d57daae45cc67204432f4e1a268a4b",
                         "pooling_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/1200/v5.2.0_1200/pooling",
-                        "primer_sha256_checksums": "4b31af746da8e394dd46068be866e7224ae8421a5ee2aa6ae1b1c99b7a5d5845",
+                        "primer_sha256_checksum": "4b31af746da8e394dd46068be866e7224ae8421a5ee2aa6ae1b1c99b7a5d5845",
                         "primer_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/1200/v5.2.0_1200/SARS-CoV-2_v5.2.0_1200.primer.bed",
-                        "reference_sha256_checksums": "eec2c5085009fd02c8c6b4db05983d36ef1f04a84d1f1cbdb8de91d16e87423a",
+                        "reference_sha256_checksum": "eec2c5085009fd02c8c6b4db05983d36ef1f04a84d1f1cbdb8de91d16e87423a",
                         "reference_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/1200/v5.2.0_1200/MN908947.3.fasta",
                         "version": "v5.2.0_1200"
                     }
@@ -29,11 +29,11 @@
                     "v5.0.0_400": {
                         "credit": "artic",
                         "curated": "True",
-                        "pooling_sha256_checksums": "820a6d4e1e887211de9edb699861300bb6e7a051f3c854955710a480e399f87b",
+                        "pooling_sha256_checksum": "820a6d4e1e887211de9edb699861300bb6e7a051f3c854955710a480e399f87b",
                         "pooling_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.0.0_400/pooling",
-                        "primer_sha256_checksums": "e4a8397158524d22e998236c796e7e56042a4aa0d7b94ea223d5512dfcd2c5b3",
+                        "primer_sha256_checksum": "e4a8397158524d22e998236c796e7e56042a4aa0d7b94ea223d5512dfcd2c5b3",
                         "primer_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.0.0_400/SARS-CoV-2_v5.0.0_400.primer.bed",
-                        "reference_sha256_checksums": "eec2c5085009fd02c8c6b4db05983d36ef1f04a84d1f1cbdb8de91d16e87423a",
+                        "reference_sha256_checksum": "eec2c5085009fd02c8c6b4db05983d36ef1f04a84d1f1cbdb8de91d16e87423a",
                         "reference_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.0.0_400/MN908947.3.fasta",
                         "version": "v5.0.0_400"
                     },
@@ -51,11 +51,11 @@
                     "v5.2.0_400": {
                         "credit": "artic",
                         "curated": "True",
-                        "pooling_sha256_checksums": "4557084b60b34f8d1fd8e3fe0b1a2d94ba7d96d3e93383712f67f15ed448f3e8",
+                        "pooling_sha256_checksum": "4557084b60b34f8d1fd8e3fe0b1a2d94ba7d96d3e93383712f67f15ed448f3e8",
                         "pooling_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.2.0_400/pooling",
-                        "primer_sha256_checksums": "c182315fd1372dfd15bad158351a5422bc5ae8f44bb8a0340ec953f47657d7c6",
+                        "primer_sha256_checksum": "c182315fd1372dfd15bad158351a5422bc5ae8f44bb8a0340ec953f47657d7c6",
                         "primer_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.2.0_400/SARS-CoV-2_v5.2.0_400.primer.bed",
-                        "reference_sha256_checksums": "eec2c5085009fd02c8c6b4db05983d36ef1f04a84d1f1cbdb8de91d16e87423a",
+                        "reference_sha256_checksum": "eec2c5085009fd02c8c6b4db05983d36ef1f04a84d1f1cbdb8de91d16e87423a",
                         "reference_url": "https://raw.githubusercontent.com/quick-lab/SARS-CoV-2/main/400/v5.2.0_400/MN908947.3.fasta",
                         "version": "v5.2.0_400"
                     }
