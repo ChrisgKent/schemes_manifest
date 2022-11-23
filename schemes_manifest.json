@@ -6,8 +6,10 @@
     "schemes": {
         "sars-cov-2": {
             "aliases": [
-                "test",
-                "testing"
+                "sars-cov-2",
+                "scov2",
+                "ncov",
+                "ncov-2019"
             ],
             "amplicon_lengths": {
                 "400": {
