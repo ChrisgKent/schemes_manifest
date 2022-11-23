@@ -11,7 +11,7 @@
                 "ncov",
                 "ncov-2019"
             ],
-            "amplicon_length": {
+            "amplicon_lengths": {
                 "1200": {
                     "v5.2.0_1200": {
                         "credit": "artic",
