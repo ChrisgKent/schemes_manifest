@@ -4,7 +4,7 @@
     "latest_doi": "10.5281/zenodo.4004423",
     "license": "CC-BY-4",
     "schemes": {
-        "SARS-CoV-2": {
+        "sars-cov-2": {
             "aliases": [
                 "test",
                 "testing"
